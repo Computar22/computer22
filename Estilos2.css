@@ -1,0 +1,184 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{ 
+background-image: radial-gradient(circle at -4.17% 4.55%, #e8ffad 0,
+ #eaff9c 8.33%, #edf58a 16.67%, #efe877 25%, #f1db64 33.33%,
+  #f2cc50 41.67%, #f2bb3c 50%, #f3aa29 58.33%, #f49918 66.67%, 
+  #f6870c 75%, #f8750b 83.33%, #fa6313 91.67%, #fc4f1d 100%) ;
+font-family:Cambria;
+
+ }
+
+a:hover{
+  color: blue;
+}
+
+.form-register{ 
+
+   background-image: radial-gradient(
+   circle at 80.11% 102.14%, #ac8317 0,
+   #9e8513 7.14%, #8d8512 14.29%, #798215 21.43%,
+   #657c18 28.57%, #4e731c 35.71%, #37671f 42.86%,
+   #1f591f 50%, #014b1e 57.14%, #003f1d 64.29%, #00351d 71.43%,
+   #002d1d 78.57%, #00271d 85.71%, #00241f 92.86%, #002222 100%);
+
+    color: white;
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+    margin-top:  100px;
+    border-radius: 40px;
+    font-family: calibria; 
+    color: white; 
+    box-shadow: 7px 13px 37px #000; 
+
+    }
+
+.form-register h4{
+font-size: 22px;
+margin-bottom: 20px;
+
+ }
+
+.form-register a:hover{
+  color: blue;
+}
+
+ .controls{ 
+
+    width: 100%;
+    padding:7px; 
+    border-radius: 10px;
+  }
+
+  .butons{
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+  }
+
+
+
+
+
+/*Pie de pagina*/
+
+
+
+ footer{
+max-width: 10000px;
+background-image: radial-gradient(
+  circle at 85.07% 85.07%, #003549 0,
+   #003342 6.25%, #002f3a 12.5%, #002a32 18.75%,
+    #012529 25%, #061f20 31.25%, #061817 37.5%, 
+    #030f0e 43.75%, #000000 50%, #000000 56.25%, 
+    #000000 62.5%, #000000 68.75%, #000000 75%, 
+    #000000 81.25%, #000000 87.5%, #000000 93.75%, 
+    #000000 100%);
+margin: 0 auto;
+color: white;
+padding: 30px;
+box-sizing: border-box;
+font-family: cambria;
+font-size: 25px;
+margin-top: 100px;
+
+}
+
+
+
+footer h1 {
+  color: white;
+}
+
+a,li:hover {
+  font-family: cambria;
+  color: white;
+  filter: brightness(110%);
+
+}
+
+
+a{ 
+text-decoration: none;
+text-decoration-color: black;}
+#het{
+ margin-right: 10000px;
+ font-family: Monotype Corsiva;
+ font-size: 70px;
+
+}
+
+
+#P1{
+  background-color: transparent;
+  float:center;
+  border-color: white;
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+
+
+}
+#P1 a:hover{
+  color: blue;
+}
+
+#P2{
+  background-color: transparent;
+  float:center;
+  border-color: white;
+  width: 400px;
+  height: 300px;
+  padding: 30px; 
+  margin-top: -360px;
+  margin-left: 789px;
+
+}
+#iconos {
+display: flex;
+transition: 1s;
+}
+#icon1{
+padding-right: 40px;
+}
+#icon3{
+padding-right: 40px;
+transition: 2s;
+}
+#ico  
+}
+
+
+/*Pie de pagina*/
+
+ul{
+  display: none;
+}
+
+
+#Difo{
+  
+background-image: radial-gradient(circle at 90.23% 78.17%,
+ #00ffff 0, #00f7ff 25%, #3cb5f2 50%, #3e789f 75%, #304558 100%);
+
+}
+
+#Difo h1{
+  margin-top: -800px;
+  margin-left: 550px;
+  font-size: 30px;
+}
+
+#Difo img{
+  margin-top: 1020px;
+  width: 50px;
+  height: 50px;
+}
+
+#Difot{
+  margin-top: -800px;
+}
